@@ -297,7 +297,6 @@ HIGHLIGHTS
 
 .highlights:after,
 .highlights:before {
-  background: url();
   content: "";
   position: absolute;
   width: 101vw;
